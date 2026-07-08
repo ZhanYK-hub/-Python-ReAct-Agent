@@ -1,0 +1,2 @@
+# Pure Python ReAct Agent
+# Set OPENAI_API_KEY for LLM mode
